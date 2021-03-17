@@ -1,0 +1,47 @@
+create table datatable_category
+(
+    UserID        int                       not null,
+    Category_List varchar(500) charset utf8 not null,
+    constraint datatable_category_UserID_uindex
+        unique (UserID)
+);
+
+alter table datatable_category
+    add primary key (UserID);
+
+create table user
+(
+    ID          int auto_increment
+        primary key,
+    Username    varchar(20)                not null,
+    Password    varchar(100)               not null,
+    FName       varchar(20) charset utf8   null,
+    LName       varchar(20) charset utf8   null,
+    Gender      varchar(10)                null,
+    Email       varchar(100)               null,
+    Description varchar(1000) charset utf8 null,
+    Role        varchar(20)                not null,
+    Icon        varchar(100)               null,
+    HP          mediumtext                 null,
+    constraint user_Username_uindex
+        unique (Username)
+);
+
+create table datatable
+(
+    ID        int auto_increment,
+    TableName varchar(50) charset utf8  not null,
+    UserID    int                       not null,
+    Category  varchar(30) charset utf8  not null,
+    Header    varchar(200) charset utf8 not null,
+    Data      json                      null,
+    Unit      varchar(20) charset utf8  not null,
+    constraint DataTable_ID_uindex
+        unique (ID),
+    constraint datatable_user_ID_fk
+        foreign key (UserID) references user (ID)
+);
+
+alter table datatable
+    add primary key (ID);
+
