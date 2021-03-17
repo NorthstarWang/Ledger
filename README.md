@@ -5,7 +5,7 @@
 - [Getting Started](#getting-started)
 - [Build using](#build-using)
 - [Features](#features)
-- [Author](
+- [Author](#author)
 
 ## About
 
@@ -77,4 +77,4 @@ To be able to run the application, **Java SDK** and **Tomcat** are required.(Rec
 
 ## Author
 
-- [Wang Yang](https://github.com/NorthstarWang)
+- [Wang Yang](https://github.com/NorthstarWang) - Idea and development
