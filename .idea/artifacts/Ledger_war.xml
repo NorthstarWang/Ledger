@@ -1,13 +1,7 @@
 <component name="ArtifactManager">
-  <artifact type="war" name="Ledger:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <properties id="maven-jee-properties">
-      <options>
-        <module>Ledger</module>
-        <packaging>war</packaging>
-      </options>
-    </properties>
-    <root id="archive" name="BasicProject.war">
+  <artifact type="war" build-on-make="true" name="Ledger:war">
+    <output-path>$PROJECT_DIR$/artifacts/Ledger_war</output-path>
+    <root id="archive" name="Ledger_war.war">
       <element id="artifact" artifact-name="Ledger:war exploded" />
     </root>
   </artifact>

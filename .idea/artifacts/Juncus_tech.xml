@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="Juncus.tech">
-    <output-path>$PROJECT_DIR$/artifacts/Juncus_tech</output-path>
-    <root id="archive" name="MySystem_war.war">
-      <element id="artifact" artifact-name="MySystem:war exploded" />
-      <element id="dir-copy" path="$PROJECT_DIR$" />
-    </root>
-  </artifact>
-</component>

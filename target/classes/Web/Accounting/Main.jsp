@@ -105,15 +105,6 @@
                                                         <div class="kt-grid-nav-v2__item-icon"><i class="flaticon2-list"></i></div>
                                                         <div class="kt-grid-nav-v2__item-title">Ledgers</div>
                                                     </a>
-                                                    <a href="#" class="kt-grid-nav-v2__item">
-                                                        <div class="kt-grid-nav-v2__item-icon"><i class="flaticon2-chart2"></i></div>
-                                                        <div class="kt-grid-nav-v2__item-title">Charts</div>
-                                                    </a>
-                                                    <a href="#" class="kt-grid-nav-v2__item">
-                                                        <div class="kt-grid-nav-v2__item-icon"><i class="flaticon2-fax"></i></div>
-                                                        <div class="kt-grid-nav-v2__item-title">Export</div>
-                                                    </a>
-
                                                 </div>
                                             </div>
                                         </div>
