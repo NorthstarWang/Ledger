@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Juncus">
+    <output-path>$PROJECT_DIR$/artifacts/Juncus</output-path>
+    <root id="archive" name="Juncus.war" />
+  </artifact>
+</component>

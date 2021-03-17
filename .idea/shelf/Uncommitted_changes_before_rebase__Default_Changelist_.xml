@@ -1,0 +1,234 @@
+<changelist name="Uncommitted_changes_before_rebase_[Default_Changelist]" date="1615945275194" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before rebase [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="out/artifacts/MyProject/WEB-INF/classes/DAO/Database.class" />
+    <option name="AFTER_PATH" value="out/artifacts/MyProject/WEB-INF/classes/DAO/Database.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/Database.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/artifacts/MyProject/WEB-INF/classes/DAO/MailDAO.class" />
+    <option name="AFTER_PATH" value="out/artifacts/MyProject/WEB-INF/classes/DAO/MailDAO.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/MailDAO.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/BasicProject/WEB-INF/classes/Servlet/TableLoader.class" />
+    <option name="AFTER_PATH" value="target/BasicProject/WEB-INF/classes/Servlet/TableLoader.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/TableLoader.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/BasicProject/WEB-INF/classes/Servlet/Register.class" />
+    <option name="AFTER_PATH" value="target/BasicProject/WEB-INF/classes/Servlet/Register.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/Register.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/Servlet/TableLoader.class" />
+    <option name="AFTER_PATH" value="target/classes/Servlet/TableLoader.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/TableLoader1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/artifacts/MyProject/WEB-INF/classes/Servlet/Profile.class" />
+    <option name="AFTER_PATH" value="out/artifacts/MyProject/WEB-INF/classes/Servlet/Profile.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/Profile.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/DAO/UserDAO.class" />
+    <option name="AFTER_PATH" value="target/classes/DAO/UserDAO.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/UserDAO.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/DAO/Database.class" />
+    <option name="AFTER_PATH" value="target/classes/DAO/Database.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/Database1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/artifacts/MyProject/WEB-INF/classes/DAO/DataTableDAO.class" />
+    <option name="AFTER_PATH" value="out/artifacts/MyProject/WEB-INF/classes/DAO/DataTableDAO.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/DataTableDAO.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/DAO/DataTableDAO.class" />
+    <option name="AFTER_PATH" value="target/classes/DAO/DataTableDAO.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/DataTableDAO1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/BasicProject/WEB-INF/classes/DAO/Database.class" />
+    <option name="AFTER_PATH" value="target/BasicProject/WEB-INF/classes/DAO/Database.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/Database2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/artifacts/MyProject/WEB-INF/classes/Servlet/Login.class" />
+    <option name="AFTER_PATH" value="out/artifacts/MyProject/WEB-INF/classes/Servlet/Login.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/Login.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/BasicProject/WEB-INF/classes/Servlet/DataTable.class" />
+    <option name="AFTER_PATH" value="target/BasicProject/WEB-INF/classes/Servlet/DataTable.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/DataTable.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/BasicProject/WEB-INF/classes/Servlet/Profile.class" />
+    <option name="AFTER_PATH" value="target/BasicProject/WEB-INF/classes/Servlet/Profile.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/Profile1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/BasicProject/WEB-INF/classes/BLL/Encryption.class" />
+    <option name="AFTER_PATH" value="target/BasicProject/WEB-INF/classes/BLL/Encryption.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/Encryption.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/artifacts/MyProject/WEB-INF/classes/Servlet/TableLoader.class" />
+    <option name="AFTER_PATH" value="out/artifacts/MyProject/WEB-INF/classes/Servlet/TableLoader.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/TableLoader2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/Servlet/Register.class" />
+    <option name="AFTER_PATH" value="target/classes/Servlet/Register.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/Register1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/artifacts/MyProject/WEB-INF/classes/Servlet/UserFilter.class" />
+    <option name="AFTER_PATH" value="out/artifacts/MyProject/WEB-INF/classes/Servlet/UserFilter.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/UserFilter.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/Servlet/AddData.class" />
+    <option name="AFTER_PATH" value="target/classes/Servlet/AddData.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/AddData.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/Servlet/Login.class" />
+    <option name="AFTER_PATH" value="target/classes/Servlet/Login.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/Login1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/BasicProject/WEB-INF/classes/Servlet/TreeView.class" />
+    <option name="AFTER_PATH" value="target/BasicProject/WEB-INF/classes/Servlet/TreeView.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/TreeView.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/Servlet/DataTable.class" />
+    <option name="AFTER_PATH" value="target/classes/Servlet/DataTable.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/DataTable1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/BasicProject/WEB-INF/classes/Servlet/Mail.class" />
+    <option name="AFTER_PATH" value="target/BasicProject/WEB-INF/classes/Servlet/Mail.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/Mail.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/artifacts/MyProject/WEB-INF/classes/BLL/Encryption.class" />
+    <option name="AFTER_PATH" value="out/artifacts/MyProject/WEB-INF/classes/BLL/Encryption.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/Encryption1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/artifacts/MyProject/WEB-INF/classes/Servlet/DataTable.class" />
+    <option name="AFTER_PATH" value="out/artifacts/MyProject/WEB-INF/classes/Servlet/DataTable.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/DataTable2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/Servlet/Profile.class" />
+    <option name="AFTER_PATH" value="target/classes/Servlet/Profile.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/Profile2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/BasicProject/WEB-INF/classes/DAO/UserDAO.class" />
+    <option name="AFTER_PATH" value="target/BasicProject/WEB-INF/classes/DAO/UserDAO.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/UserDAO1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/BasicProject/WEB-INF/classes/Servlet/UserFilter.class" />
+    <option name="AFTER_PATH" value="target/BasicProject/WEB-INF/classes/Servlet/UserFilter.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/UserFilter1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/BasicProject/WEB-INF/classes/DAO/DataTableDAO.class" />
+    <option name="AFTER_PATH" value="target/BasicProject/WEB-INF/classes/DAO/DataTableDAO.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/DataTableDAO2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/BasicProject/WEB-INF/classes/DAO/MailDAO$1.class" />
+    <option name="AFTER_PATH" value="target/BasicProject/WEB-INF/classes/DAO/MailDAO$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/MailDAO$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/BasicProject/WEB-INF/classes/DAO/MailDAO.class" />
+    <option name="AFTER_PATH" value="target/BasicProject/WEB-INF/classes/DAO/MailDAO.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/MailDAO1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/BLL/Encryption.class" />
+    <option name="AFTER_PATH" value="target/classes/BLL/Encryption.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/Encryption2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/artifacts/MyProject/WEB-INF/classes/Servlet/Register.class" />
+    <option name="AFTER_PATH" value="out/artifacts/MyProject/WEB-INF/classes/Servlet/Register.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/Register2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/artifacts/MyProject/WEB-INF/classes/DAO/UserDAO.class" />
+    <option name="AFTER_PATH" value="out/artifacts/MyProject/WEB-INF/classes/DAO/UserDAO.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/UserDAO2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/Servlet/TreeView.class" />
+    <option name="AFTER_PATH" value="target/classes/Servlet/TreeView.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/TreeView1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/artifacts/MyProject/WEB-INF/classes/DAO/MailDAO$1.class" />
+    <option name="AFTER_PATH" value="out/artifacts/MyProject/WEB-INF/classes/DAO/MailDAO$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/MailDAO$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/artifacts/MyProject/WEB-INF/classes/Servlet/TreeView.class" />
+    <option name="AFTER_PATH" value="out/artifacts/MyProject/WEB-INF/classes/Servlet/TreeView.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/TreeView2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/DAO/MailDAO$1.class" />
+    <option name="AFTER_PATH" value="target/classes/DAO/MailDAO$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/MailDAO$12.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/Servlet/Mail.class" />
+    <option name="AFTER_PATH" value="target/classes/Servlet/Mail.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/Mail1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/artifacts/MyProject/WEB-INF/classes/Servlet/AddData.class" />
+    <option name="AFTER_PATH" value="out/artifacts/MyProject/WEB-INF/classes/Servlet/AddData.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/AddData1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/artifacts/MyProject/WEB-INF/classes/Servlet/Mail.class" />
+    <option name="AFTER_PATH" value="out/artifacts/MyProject/WEB-INF/classes/Servlet/Mail.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/Mail2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/DAO/MailDAO.class" />
+    <option name="AFTER_PATH" value="target/classes/DAO/MailDAO.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/MailDAO2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/BasicProject/WEB-INF/classes/Servlet/AddData.class" />
+    <option name="AFTER_PATH" value="target/BasicProject/WEB-INF/classes/Servlet/AddData.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/AddData2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/BasicProject/WEB-INF/classes/Servlet/Login.class" />
+    <option name="AFTER_PATH" value="target/BasicProject/WEB-INF/classes/Servlet/Login.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/Login2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/Servlet/UserFilter.class" />
+    <option name="AFTER_PATH" value="target/classes/Servlet/UserFilter.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/UserFilter2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/BasicProject.war" />
+    <option name="AFTER_PATH" value="target/BasicProject.war" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/BasicProject.war" />
+  </binary>
+</changelist>
