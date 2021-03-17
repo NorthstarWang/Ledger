@@ -18,6 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 #### Prerequisites
 
 To be able to run the application, **Java SDK** and **Tomcat** are required.(Recommended version: Java 14 + Tomcat 9), Maven is required to configure.
+Database can be generated using the scripts in /database_script.txt
 
 ## Build using
 
