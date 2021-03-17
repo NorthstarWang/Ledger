@@ -79,4 +79,4 @@ To be able to run the application, **Java SDK** and **Tomcat** are required.(Rec
 
 ## Author
 
-- [Wang Yang
+- [Wang Yang](https://github.com/NorthstarWang)
