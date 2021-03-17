@@ -12,7 +12,7 @@ public class Database{
     private String driver = "com.mysql.cj.jdbc.Driver";
     private String url = "jdbc:mysql://localhost:3306/Web?serverTimezone=UTC&useSSL=false&allowPublicKeyRetrieval=true";
     private String usr = "root";
-    private String pwd = "197201";
+    private String pwd = "Your Password";
 
 
     public Connection getCon() throws Exception{
